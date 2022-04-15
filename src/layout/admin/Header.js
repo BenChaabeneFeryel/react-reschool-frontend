@@ -27,8 +27,8 @@ const Head = styled.div`
 export default function Header() {
   return (
     <Head>
-        <BadgeAvatars/>
-        <SwipeableTemporaryDrawer/>
+      <BadgeAvatars/>
+      <SwipeableTemporaryDrawer/>
     </Head>
   )
 }
